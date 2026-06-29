@@ -1,5 +1,5 @@
- Carta Digital - Restaurante "Sabores del Quindío"
-
+ ## Carta Digital - Restaurante "Sabores del Quindío"
+ 
 Aplicación móvil desarrollada en **React Native + Expo** que digitaliza la carta de un
 restaurante, permitiendo a los clientes explorar el menú por categorías, ver el detalle de
 cada plato y armar un pedido mediante un carrito de compras interactivo.
@@ -93,20 +93,20 @@ Antes de clonar el proyecto, asegúrate de tener instalado:
 
 
 
-Instalación y ejecución
+## Instalación y ejecución
 
 Sigue estos pasos en orden, en una terminal, dentro de un directorio limpio:
 bash
-# 1. Clonar el repositorio
+1. Clonar el repositorio
 git clone https://github.com/TU-USUARIO/carta-digital-restaurante.git
 
-# 2. Entrar a la carpeta del proyecto
+2. Entrar a la carpeta del proyecto
 cd carta-digital-restaurante
 
-# 3. Instalar las dependencias del proyecto
+3. Instalar las dependencias del proyecto
 npm install
 
-# 4. Iniciar el servidor de desarrollo de Expo
+4. Iniciar el servidor de desarrollo de Expo
 npx expo start
 
 
