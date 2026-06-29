@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Carta Digital - Restaurante",
+    "slug": "carta-digital-restaurante",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FAF8F5"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FAF8F5"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
