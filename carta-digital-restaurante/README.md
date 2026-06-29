@@ -8,8 +8,9 @@ Proyecto desarrollado como **Entregable de Evaluación Final** — Programa de F
 Desarrollo de Aplicaciones Móviles (ADSO), SENA - Centro de Comercio y Turismo, Regional
 Quindío. Instructor: Edwin Rozo Gómez.
 
+---
 
- Definición del problema y justificación
+ ## Definición del problema y justificación
 
 Muchos restaurantes pequeños y medianos en la región siguen utilizando cartas físicas o
 archivos PDF estáticos que son difíciles y costosos de actualizar (cambios de precio,
@@ -18,7 +19,6 @@ para el cliente, que no siempre tiene una experiencia visual atractiva ni un pro
 para armar su pedido antes de hacerlo formal con el mesero.
 
 **Carta Digital** resuelve este problema ofreciendo:
-
 - Un menú organizado por categorías, fácil de navegar desde el celular del cliente.
 - Fichas de detalle por plato con imagen, descripción y precio.
 - Un carrito de compras donde el cliente puede armar su pedido antes de confirmarlo,
@@ -31,7 +31,7 @@ el envío a cocina, dejando la puerta abierta para una futura integración con u
 
 ---
 
- Características principales
+ ## Características principales
 
 - Navegación por **categorías → menú → detalle del plato** (React Navigation, Stack).
 - Navegación inferior por **pestañas (Tabs)**: Carta, Carrito, Acerca de.
@@ -43,7 +43,7 @@ el envío a cocina, dejando la puerta abierta para una futura integración con u
 - Compatible con ejecución en **Web**, **Android**, **iOS** y **Expo Go**.
 
 
-Arquitectura del proyecto
+## Arquitectura del proyecto
 
 
 ```
@@ -82,7 +82,7 @@ carta-digital-restaurante/
 ```
 
 
- Requisitos previos
+ ## Requisitos previos
 
 Antes de clonar el proyecto, asegúrate de tener instalado:
 
@@ -111,13 +111,13 @@ npx expo start
 
 
 
- Ejecución en Web
+ ## Ejecución en Web
 
 npm run web
 
 
 
-Ejecución en dispositivo físico (Expo Go)
+## Ejecución en dispositivo físico (Expo Go)
 
 1. Ejecuta npm start.
 2. Se abrirá una terminal con un código QR.
@@ -125,7 +125,7 @@ Ejecución en dispositivo físico (Expo Go)
 4. La app se compilará y abrirá automáticamente en tu dispositivo.
 5. La aplicación se compilará y cargará automáticamente en tu dispositivo.
 
-Autor
+## Autor
 
 Proyecto desarrollado por **[Kariangel Silva]** — Aprendiz del Programa ADSO, SENA Regional
 Quindío.
